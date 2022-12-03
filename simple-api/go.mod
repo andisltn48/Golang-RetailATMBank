@@ -1,4 +1,4 @@
-module github.com/okanemo/Andi-Sultan-Asharil-Raphi
+module github.com/andisltn/retail-bank-api
 
 go 1.19
 
